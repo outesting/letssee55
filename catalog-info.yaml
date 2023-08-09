@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "letssee55"
+  description: "asdsad"
+  annotations:
+    github.com/project-slug: outesting/letssee55
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: repository
+  lifecycle: experimental
+  owner: "group:default/testteam"
