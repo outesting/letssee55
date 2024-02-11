@@ -9,4 +9,4 @@ metadata:
 spec:
   type: repository
   lifecycle: experimental
-  owner: "group:default/batman"
+  owner: "group:default/spiderman"
