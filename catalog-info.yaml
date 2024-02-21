@@ -5,7 +5,6 @@ metadata:
   description: "asdsad"
   annotations:
     jira.com/project-key: BACKSTAGE
-    jira.com: BACKSTAGE
     github.com/project-slug: outesting/letssee55
     backstage.io/techdocs-ref: dir:.
 spec:
